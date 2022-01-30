@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xbdeE8107809Af885f7ADe9BF16965b463f8A52bC",
+  "SCAN_LINK": "https://polygonscan.com/address/0xbdee8107809af885f7ade9bf16965b463f8a52bc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "The Mendelised Bulbas",
+  "SYMBOL": "BULBA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/themendelisedbulbas",
+  "SHOW_BACKGROUND": true
+}
